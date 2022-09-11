@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anuragsingh922
+- 👋 Hi, I’m Anurag Singh
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning App Development
 - 💞️ I’m looking to collaborate on Web Development
